@@ -1,0 +1,14 @@
+body { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+	background: #fff;
+	color: #284458;
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-size: 3em;
+}
