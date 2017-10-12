@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="661px" height="661px" viewBox="0 0 661 661" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-390.000000, -182.000000)">
+            <g id="Group" transform="translate(410.000000, 202.000000)">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="40" cx="310.5" cy="310.5" r="310.5"></circle>
+                <text id="T" font-family="Geostar-Regular, Geostar" font-size="400" font-weight="normal" letter-spacing="38" fill="#FFFFFF">
+                    <tspan x="118" y="473">T</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

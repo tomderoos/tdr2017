@@ -3,12 +3,41 @@ body {
     font-size: 16px;
 	background: #fff;
 	color: #284458;
+	margin: 0;
+	padding: 0;
 }
 
 h1, h2, h3, h4, h5 {
 	font-family: 'Montserrat', sans-serif;
+	margin: 0;
 }
 
 h1 {
 	font-size: 3em;
+}
+
+img.logo {
+	height: 50px;
+	width: auto;
+	display: none;
+}
+
+header.header {
+	background: black;
+	color: white;
+	height: 60vh;
+	display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.welkom {
+	display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+section.over {
+	display: grid;
 }
