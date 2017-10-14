@@ -1,4 +1,4 @@
-body { 
+body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
 	background: #fff;
@@ -40,4 +40,21 @@ div.welkom {
 
 section.over {
 	display: grid;
+	min-height: 100vh;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: auto;
+}
+
+.foto {
+	background: blue;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.tekst {
+	background: yellow;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
