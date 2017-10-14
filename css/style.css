@@ -58,3 +58,18 @@ section.over {
 	align-items: center;
 	justify-content: center;
 }
+
+section.werk {
+	display: grid;
+	min-height: 50vh;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: auto;
+}
+
+.screen {
+	overflow: hidden;
+}
+
+.omschrijving {
+	background: aqua;
+}
