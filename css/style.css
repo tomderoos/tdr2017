@@ -2,7 +2,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
 	background: #fff;
-	color: #284458;
+	color: #000;
 	margin: 0;
 	padding: 0;
 }
@@ -23,8 +23,7 @@ img.logo {
 }
 
 header.header {
-	background: black;
-	color: white;
+	color: black;
 	height: 60vh;
 	display: flex;
   align-items: center;
@@ -46,17 +45,16 @@ section.over {
 }
 
 .foto {
-	background: blue;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
 .tekst {
-	background: yellow;
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	padding: 5em;
 }
 
 section.werk {
@@ -68,8 +66,9 @@ section.werk {
 
 .screen {
 	overflow: hidden;
+	height: 50vh;
 }
 
 .omschrijving {
-	background: aqua;
+	padding: 5em;
 }
